@@ -7,7 +7,7 @@ public class MainHomeWork {
         Author tven = new Author(" Марк ", " Твен ");
         Book vedmak = new Book(" Ведьмак ",  1986, sapkovski);
         Book soyer = new Book(" Приключения Тома Сойера ", 1876, tven );
-
+        vedmak.setPublisher(1992);
         System.out.println(vedmak);
         System.out.println(soyer);
     }
