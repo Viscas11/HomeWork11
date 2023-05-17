@@ -10,9 +10,9 @@ public class MainHomeWork {
         vedmak.setPublishYear(1992);
         Author vedmakAuthor =  vedmak.getAuthor();
         Author soyerAuthor = soyer.getAuthor();
-        System.out.println(vedmak.getNameBook() + vedmak.getPublishYear() + vedmakAuthor.getAuthorName()
+        System.out.println(vedmak.getSpeshialMetodBook() + vedmak.getPublishYear() + vedmakAuthor.getAuthorName()
                 + vedmakAuthor.getAuthorLastName());
-        System.out.println(soyer.getNameBook() + soyer.getPublishYear() + soyerAuthor.getAuthorName() + soyerAuthor.getAuthorLastName());
+        System.out.println(soyer.getSpeshialMetodBook() +  soyer.getPublishYear() + soyerAuthor.getAuthorName() + soyerAuthor.getAuthorLastName());
     }
 }
 

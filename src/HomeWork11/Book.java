@@ -24,4 +24,8 @@ public class Book {
     public Author getAuthor() {
         return this.author;
     }
+    public String getSpeshialMetodBook() {
+        String speshialNameBook = " Название книги - " + this.nameBook;
+        return speshialNameBook;
+    }
 }
