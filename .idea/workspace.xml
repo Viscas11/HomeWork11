@@ -4,11 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a09be2e6-bd0d-4b01-bacd-c5a1d0653988" name="Changes" comment="третий коммит">
+    <list default="true" id="a09be2e6-bd0d-4b01-bacd-c5a1d0653988" name="Changes" comment="четвертый коммит">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/HomeWork2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork3/homework3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork4/HomeWork4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork5/HomeWork5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork6/HomeWork6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork7/HomeWork7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork8/HomeWork8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork9/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork9/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork9/HomeWork9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork10/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWork11/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork11/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWork11/MainHomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork11/MainHomeWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/out/production/Homework1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/out/production/Homework1/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +103,26 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Syat/IdeaProjects/HomeWork11/src/HomeWork11",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/Syat/IdeaProjects/HomeWork11/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Syat/IdeaProjects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Syat/IdeaProjects/HomeWork11/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MainHomeWork" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork11.MainHomeWork" />
@@ -99,7 +160,10 @@
       <updated>1684167053127</updated>
       <workItem from="1684167054144" duration="8489000" />
       <workItem from="1684253456595" duration="2055000" />
-      <workItem from="1684344201768" duration="780000" />
+      <workItem from="1684344201768" duration="921000" />
+      <workItem from="1684345357920" duration="540000" />
+      <workItem from="1684345911341" duration="1114000" />
+      <workItem from="1684347060928" duration="1122000" />
     </task>
     <task id="LOCAL-00001" summary="Первый коммит">
       <created>1684167134506</created>
@@ -115,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684174517991</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="четвертый коммит">
+      <created>1684345022052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684345022052</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +218,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первый коммит" />
     <MESSAGE value="Второй коммит" />
-    <option name="LAST_COMMIT_MESSAGE" value="Второй коммит" />
+    <MESSAGE value="четвертый коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="четвертый коммит" />
   </component>
 </project>
